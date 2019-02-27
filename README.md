@@ -30,12 +30,16 @@ During this lab, you will try to resolve deployment issues and make applications
 
 	```
 		
-- Clone this repository
+- Clone this repository, and run preparation script:
 
 	```
 	$ git clone https://github.com/axelaris/cf-troubleshooting-challenge.git
 	
 	$ cd cf-troubleshooting-challenge
+	
+	$ ./prepare.sh 
+	Preparing Lab environment... Done
+
 	```
 	
 - You will see 3 directories for **Easy**, **Moderate** and **Tricky** levels of tasks accordingly. We suggest you to start from Easy level, then move forward to more difficult tasks.

@@ -1,0 +1,7 @@
+---
+applications:
+- memory: 128MB
+  no-route: true
+  buildpacks: 
+  - python_buildpack
+  command: python example.py

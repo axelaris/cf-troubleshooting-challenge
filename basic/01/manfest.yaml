@@ -1,0 +1,7 @@
+---
+applications:
+- name: myapp
+  memory: 128MB
+  buildpacks: 
+  - python_buildpack
+  command: python example.py

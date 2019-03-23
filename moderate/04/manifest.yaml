@@ -1,0 +1,9 @@
+---
+applications:
+- name: moderate-04 
+  memory: 128MB
+  buildpacks: 
+  - python_buildpack
+  command: python example.py
+  health-check-http-endpoint: /
+  health-check-type: http

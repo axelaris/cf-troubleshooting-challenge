@@ -1,6 +1,6 @@
 ---
 applications:
-- name: myapp
+- mane: easy-05
   memory: 128MB
   buildpacks: 
   - python_buildpack

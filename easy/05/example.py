@@ -7,7 +7,7 @@ port = int(os.getenv("PORT", 8080))
 
 @app.route('/')
 def python_task():
-  page = "<head><style type='text/css'> body {font-size: 56px;font-weight: bold; background-color: #95ff93; text-align: center;}</style></head>\n<body>CONGRATULATIONS<br>you just completed basic task #1</body>"
+  page = "<head><style type='text/css'> body {font-size: 56px;font-weight: bold; background-color: #95ff93; text-align: center;}</style></head>\n<body>CONGRATULATIONS<br>you just completed easy task #05</body>"
   return page
 
 if __name__ == '__main__':

@@ -1,9 +1,0 @@
----
-applications:
-- name: moderate-01
-  instances: 1
-  memory: 100M
-  buildpacks:
-  - staticfile_buildpack 
-  env:
-    GOPACKAGENAME: main

@@ -7,7 +7,7 @@ import (
 )
 
 func serve(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "<head><style type='text/css'> body {font-size: 56px;font-weight: bold; background-color: #95ff93; text-align: center;}</style></head>")
+	fmt.Fprintf(w, "<head><style type='text/css'> body {font-size: 56px;font-weight: bold; background-color: #f49e42; text-align: center;}</style></head>")
 	fmt.Fprintf(w, "<body>CONGRATULATIONS<br>you just completed moderate task #03</body>");
 }
 

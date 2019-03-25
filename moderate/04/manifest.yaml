@@ -5,5 +5,3 @@ applications:
   buildpacks: 
   - python_buildpack
   command: python example.py
-  health-check-http-endpoint: /
-  health-check-type: http

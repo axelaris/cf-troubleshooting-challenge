@@ -2,6 +2,6 @@
 applications:
 - name: moderate-03
   instances: 1
-  memory: 100M
+  memory: 10M
   env:
     GOPACKAGENAME: main

@@ -2,7 +2,7 @@
 applications:
 - name: moderate-02
   instances: 1
-  memory: 100M
+  memory: 20M
   buildpacks:
   - nodejs_buildpack
   command: node main.js

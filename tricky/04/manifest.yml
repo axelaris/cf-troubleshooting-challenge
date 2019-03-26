@@ -2,3 +2,4 @@
 applications:
 - name: tricky-04
   instances: 1
+  memory: 10M

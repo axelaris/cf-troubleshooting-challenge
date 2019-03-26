@@ -2,7 +2,7 @@
 applications:
 - name: moderate-01
   instances: 1
-  memory: 100M
+  memory: 20M
   buildpacks:
   - go_buildpack
   env:

@@ -1,7 +1,7 @@
 ---
 applications:
 - mane: easy-05
-  memory: 128MB
+  memory: 30M 
   buildpacks: 
   - python_buildpack
   command: python example.py

@@ -1,0 +1,7 @@
+---
+applications:
+  - name: basic-02 
+    buildpacks:
+      - go_buildpack
+    env:
+      GOPACKAGENAME: main

@@ -4,6 +4,7 @@ applications:
     buildpacks:
       - go_buildpack
     routes:
-      - route: moderate-05.apps.internal   
+      - route: moderate-05.apps.internal
+    memory: 10M    
     env:
       GOPACKAGENAME: main

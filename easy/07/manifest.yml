@@ -3,6 +3,7 @@ applications:
   - name: easy-07 
     buildpacks:
       - go_buildpack
+    memory: 10M    
     env:
       GOPACKAGENAME: main
     command: go_main

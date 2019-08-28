@@ -1,0 +1,2 @@
+cf push --var-file or cf push --var
+Go package name main should be found

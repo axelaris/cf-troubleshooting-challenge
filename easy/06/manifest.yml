@@ -1,0 +1,7 @@
+---
+applications:
+  - name: basic-03 
+    buildpacks:
+      - go_buildpack
+    env:
+      GOPACKAGENAME: ((gopackagename))

@@ -1,0 +1,9 @@
+---
+applications:
+  - name: moderate-05 
+    buildpacks:
+      - go_buildpack
+    routes:
+      - route: moderate-05.apps.internal   
+    env:
+      GOPACKAGENAME: main

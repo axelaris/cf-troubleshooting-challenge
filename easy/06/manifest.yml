@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: basic-03 
+  - name: easy-06 
     buildpacks:
       - go_buildpack
     env:

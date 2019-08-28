@@ -1,0 +1,7 @@
+---
+applications:
+- name: moderate-06
+  instances: 1
+  memory: 20M
+  buildpacks:
+  - nodejs_buildpack

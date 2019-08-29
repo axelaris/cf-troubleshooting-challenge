@@ -1,7 +1,0 @@
----
-applications:
-  - name: hugo 
-    buildpacks:
-      - staticfile_buildpack 
-    path: public
-    memory: 100M

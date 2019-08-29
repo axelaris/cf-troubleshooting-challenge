@@ -6,5 +6,4 @@ applications:
     memory: 10M    
     env:
       GOPACKAGENAME: main
-    command: go_main
   

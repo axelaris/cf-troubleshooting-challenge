@@ -1,0 +1,7 @@
+---
+applications:
+  - name:  
+    buildpacks:
+      - 
+    path: public
+    memory: 100M

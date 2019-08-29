@@ -1,0 +1,8 @@
+---
+applications:
+  - name: basic-04
+    buildpacks: 
+      - go-buildpack
+    memory: 10M
+    env:
+      GOPACKAGENAME: main 

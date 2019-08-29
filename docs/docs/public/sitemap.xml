@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugo.pcf.dev.azure-rnd.xyz/basic/</loc>
+    <lastmod>2019-08-28T12:31:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.pcf.dev.azure-rnd.xyz/basic/basic-01/</loc>
+    <lastmod>2019-08-28T12:31:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.pcf.dev.azure-rnd.xyz/</loc>
+    <lastmod>2019-08-28T12:31:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.pcf.dev.azure-rnd.xyz/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugo.pcf.dev.azure-rnd.xyz/tags/</loc>
+  </url>
+  
+</urlset>
